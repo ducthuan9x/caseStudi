@@ -62,6 +62,16 @@ function duoi(hSinh){
     producStudent.splice(hSinh,1)
     index()
     alert('bạn đã bị đuổi khỏi lớp')
-}
+}function sua(i){
+    let hs = producStudent[i];
+    console.log(hs);
+   ten1.value = producStudent[i].ten;
+     ngaysinh1.value= producStudent[i].ngaysinh;
+     toan1.value= producStudent[i].toan;
+     ly1.value= producStudent[i].ly;
+    hoa1.value= producStudent[i].hoa;
+    alert('bắt đầu chỉnh sửa thông tin');
+    index();
 
+}
 
