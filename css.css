@@ -1,0 +1,23 @@
+.nav {
+        background: aqua;
+        width: 50%;
+        height: 150px;
+}
+.anhnen1{
+    background: #ffffff;
+    width: 25%;
+    height: 150px;
+    float: left;
+}
+.anhnen2{
+    background: #0015ff;
+    width: 50%;
+    height: 150px;
+    float: left;
+}
+.anhnen3{
+    background: #ffffff;
+    width: 25%;
+    height: 150px;
+    float: left;
+}
